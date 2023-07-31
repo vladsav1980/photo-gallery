@@ -12,7 +12,7 @@ const LandingSection = () => {
 
         {/* Hero Title */}
         <Heading as="h1" fontSize="6vw" textAlign="center" mt={8}>
-          Unleash Your Photographic Journey with Our Photo Gallery
+          Unleash Your Digital Journey with Our Photo Gallery
         </Heading>
 
         {/* Hero Text */}
